@@ -1,0 +1,41 @@
+{
+    "playlists": [
+        {
+            "name": "daft-punk",
+            "musics": [
+                "https://youtu.be/LL-gyhZVvx0",
+                "https://youtu.be/0sa2R-PM0Uk",
+                "https://youtu.be/NFxyYYRqobw",
+                "https://youtu.be/UeZG0viNAjM",
+                "https://youtu.be/Qhyfoa_RLOc",
+                "https://youtu.be/VAH_TErTozI",
+                "https://youtu.be/PXYeARRyDWk",
+                "https://youtu.be/a5uQMwRMHcs",
+                "https://youtu.be/h918_BDVRIU"
+            ]
+        },
+        {
+            "name": "random-remixes",
+            "musics": [
+                "https://youtu.be/GLbvBTFCGcY",
+                "https://youtu.be/ptSvxHO9kBc",
+                "https://youtu.be/sN1hTxoe3w8",
+                "https://youtu.be/SOTQ8hmh9rU",
+                "https://youtu.be/CFkKtuEcjtE"
+            ]
+        },
+        {
+            "name": "super-eurobeat",
+            "musics": [
+                "https://youtu.be/8B4guKLlbVU",
+                "https://youtu.be/_JLbaEaIF40",
+                "https://youtu.be/1bWXRDvfrs4",
+                "https://youtu.be/jR_21s010LU",
+                "https://youtu.be/jwcGH65zcjE",
+                "https://youtu.be/mwuXGUmFSOY",
+                "https://youtu.be/TDkhRhT3XFg",
+                "https://youtu.be/2Q6vj1EKUBE"
+            ]
+        }
+    ]
+}
