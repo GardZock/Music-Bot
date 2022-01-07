@@ -1,0 +1,14 @@
+import { DistEvent } from '../../structures/DistEvents'
+import { CustomClient } from '../../structures/Client'
+
+export = class extends DistEvent {
+    constructor(client: CustomClient) {
+        super(client, {
+            name: ''
+        })
+    }
+
+    run = async () => {
+
+    }
+}

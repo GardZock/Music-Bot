@@ -1,0 +1,19 @@
+import { NormalCommands } from '../../structures/NormalCommands'
+import { CustomClient } from '../../structures/Client'
+import { Message } from 'discord.js'
+
+export = class extends NormalCommands {
+    constructor(client: CustomClient) {
+        super(client, {
+
+            name: '',
+            description: '',
+            aliases: [],
+            category: '',
+            howToUse: ''
+        })
+    }
+
+    run = async (client: CustomClient, message: Message, args: string[]) => {
+    }
+}
